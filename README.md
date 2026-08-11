@@ -3,7 +3,11 @@
 Extension Chrome (Manifest V3) pour afficher, masquer et copier les champs mot de passe — via clic droit, icône œil ou raccourci clavier.
 
 ## Aperçu
-![Menu contextuel](screenshots/context-menu.png) |
+**Avant** : inspecter l'élément => changer "password" pour "input"
+![Before](screenshots/before.png)
+
+**Maintenant** : Click droit => Afficher
+![Menu contextuel](screenshots/context-menu.png)
 
 ## Installation
 
